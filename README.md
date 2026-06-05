@@ -26,8 +26,9 @@ pip install pandas numpy matplotlib scikit-learn
 ## Ejecución
 
 1. Abrir el notebook `regresion.ipynb`.
-2. Ejecutar las celdas en orden.
-3. Analizar los resultados obtenidos.
+2. Agregar el customer-churn-records.csv
+3. Ejecutar las celdas en orden.
+4. Analizar los resultados obtenidos.
 
 ## Resultados
 
